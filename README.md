@@ -16,7 +16,9 @@ Make sure python (preferred python3.7) is added to path.
     python --version
         or		
     python3.7 --version
-    Install virtualenv using pip.
+ 
+ 
+ Install virtualenv using pip.
 
          pip install virtualenv 
  
